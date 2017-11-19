@@ -100,4 +100,4 @@ ENV/
 # mypy
 .mypy_cache/
 
-config.py
+utdatanalytics-wk6-hw-api/config.py
